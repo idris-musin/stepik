@@ -1,6 +1,6 @@
-package ru.itpark.stepik21;
+package ru.itpark.stepik1;
 
-public class Stepik21 {
+public class Stepik1 {
     public static void Task1() {
 
         System.out.println("Sample Output 1: " + booleanExpression(false, false, false, false));
