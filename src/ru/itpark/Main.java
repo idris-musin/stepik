@@ -5,6 +5,7 @@ import static ru.itpark.stepik2.Stepik2.Task2;
 import static ru.itpark.stepik3.Stepik3.Task3;
 import static ru.itpark.stepik4.Stepik4.Task4;
 import static ru.itpark.stepik5.Stepik5.Task5;
+import static ru.itpark.stepik6.Stepik6.Task6;
 
 public class Main {
 
@@ -20,5 +21,7 @@ public class Main {
         Task4();
         System.out.println("\n" + "Stepik 5: ");
         Task5();
+        System.out.println("\n" + "Stepik 6: ");
+        Task6();
     }
 }
