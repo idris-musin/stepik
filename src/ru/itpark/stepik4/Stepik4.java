@@ -3,7 +3,7 @@ package ru.itpark.stepik4;
 public class Stepik4 {
     public static void Task4() {
 
-        System.out.println("Sample Output:" + flipBit(0, 1));
+        System.out.println("Sample Output: " + flipBit(0, 1));
     }
 
     public static int flipBit(int value, int bitIndex) {
