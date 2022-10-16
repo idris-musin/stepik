@@ -8,6 +8,7 @@ import static ru.itpark.stepik5.Stepik5.Task5;
 import static ru.itpark.stepik6.Stepik6.Task6;
 import static ru.itpark.stepik7.Stepik7.Task7;
 import static ru.itpark.stepik8.Stepik8.Task8;
+import static ru.itpark.stepik9.Stepik9.Task9;
 
 public class Main {
 
@@ -29,5 +30,7 @@ public class Main {
         Task7();
         System.out.println("\n" + "Stepik 8: ");
         Task8();
+        System.out.println("\n" + "Stepik 9: ");
+        Task9();
     }
 }
