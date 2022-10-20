@@ -2,6 +2,7 @@ package ru.itpark;
 
 import static ru.itpark.stepik1.Stepik1.Task1;
 import static ru.itpark.stepik10.Stepik10.Task10;
+import static ru.itpark.stepik11.Stepik11.Task11;
 import static ru.itpark.stepik2.Stepik2.Task2;
 import static ru.itpark.stepik3.Stepik3.Task3;
 import static ru.itpark.stepik4.Stepik4.Task4;
@@ -35,5 +36,7 @@ public class Main {
         Task9();
         System.out.println("\n" + "Stepik 10: ");
         Task10();
+        System.out.println("Stepik 11: ");
+        Task11();
     }
 }
