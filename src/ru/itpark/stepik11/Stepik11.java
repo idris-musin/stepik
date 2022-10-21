@@ -15,7 +15,7 @@ public class Stepik11 {
                 else robot.turnRight();
             }
             while (robot.getX() != toX) robot.stepForward();
-        } else if (robot.getX() < toX)
+        } else
             while (robot.getDirection() != Direction.RIGHT) {
                 if (robot.getDirection() == Direction.DOWN) robot.turnLeft();
                 else robot.turnRight();
@@ -28,7 +28,7 @@ public class Stepik11 {
                 else robot.turnRight();
             }
             while (robot.getY() != toY) robot.stepForward();
-        } else if (robot.getY() < toY)
+        } else
             while (robot.getDirection() != Direction.UP) {
                 if (robot.getDirection() == Direction.RIGHT) robot.turnLeft();
                 else robot.turnRight();
